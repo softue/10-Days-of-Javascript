@@ -1,0 +1,22 @@
+{
+  "name": "10-days-of-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softue/10-Days-of-Javascript.git"
+  },
+  "author": "Rômulo Mendes Figueiredo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/softue/10-Days-of-Javascript/issues"
+  },
+  "homepage": "https://github.com/softue/10-Days-of-Javascript#readme",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
