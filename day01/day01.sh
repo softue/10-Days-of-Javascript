@@ -1,0 +1,1 @@
+echo "javascriptloops" | node day01/day01.js
